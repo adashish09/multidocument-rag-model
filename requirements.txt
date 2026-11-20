@@ -1,0 +1,4 @@
+pymupdf
+numpy
+faiss-cpu
+requests
